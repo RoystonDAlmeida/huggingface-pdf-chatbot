@@ -1,0 +1,14 @@
+# Hugging Face Transformers library for NLP tasks
+transformers
+
+# Streamlit for creating the user interface
+streamlit
+
+# PyPDF2 for reading PDF documents
+PyPDF2
+
+# for conversation memory
+langchain
+
+# tensorflow for chat pipeline
+tensorflow
